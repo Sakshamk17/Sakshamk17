@@ -5,7 +5,7 @@
 
 <br/>
 
-### ✨ Let's Build Something Scalable!
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=C9B8FF&center=true&vCenter=true&width=600&lines=Full+Stack+Developer+%F0%9F%9A%80;Building+Scalable+Web+Apps+%E2%9A%A1;Open+to+Opportunities+%F0%9F%8C%99;Let%27s+Build+Something+Magical!+%E2%9C%A8)](https://git.io/typing-svg)
 
 <hr/>
 
@@ -19,9 +19,9 @@
 const saksham = {
   name: "Saksham Khobragade",
   role: "Full Stack Developer",
-  location: "Nagpur, Maharashtra IN",
+  location: "Pune, Maharashtra IN",
   passion: ["Scalable web apps", "Clean architecture", "Open-source"],
-  currentlyLearning: ["Agentic AI Systems", "Machine Learning", "System Design"],
+  currentlyLearning: ["Distributed Systems", "Cloud-Native (K8s/Docker)", "System Design"],
   funFact: "I translate complex business logic into clean, human-readable code ⚡"
 };
 ```
